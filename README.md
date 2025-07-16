@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Kyluesky's Realm ✨</h1>
+<h1 align="center">Kyluesky Here</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Creative+Bot+Engineer;Anime-Tech+Fusion+Craftsman;Always+Building+Something+Cool..." alt="Typing SVG" />
 </p>
