@@ -23,10 +23,10 @@ Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur s
 | 💡 Proyek | Deskripsi |
 |----------|-----------|
 | [Seiren WhatsApp](https://github.com/kluesky/seiren-whatsappweb.js) | Bot WhatsApp modular dengan fitur anime, AI, dan downloader |
-| [Beta Telegram](https://github.com/kluesky/seiren-telegram) | Versi Telegram dari bot Seiren — AI, PvP Waifu, Talk, dll |
-| [Kyluesky Website](https://kyluesky.netlify.app) | Portofolio pribadi bergaya anime/futuristik |
+| [Beta Telegram](https://t.me/Seirennnnnn_bot) | Versi Telegram dari bot Seiren — AI, PvP Waifu, Talk, dll |
+| [Kyluesky Website]([https://lyora.netlify.app/]) | Portofolio pribadi bergaya anime/futuristik |
 | [Link Tracker](https://github.com/kluesky/ip-tracker-bot) | Script pelacak link dengan notifikasi ke WA |
-| [TikTok Downloader](https://github.com/kluesky/tiktokdownload) | Website downloader TikTok MP4/MP3 dengan UI minimalis |
+| [TikTok Downloader](https://kyluesky.netlify.app/tiktok) | Website downloader TikTok MP4/MP3 dengan UI minimalis |
 
 ---
 
