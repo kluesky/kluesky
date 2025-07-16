@@ -10,7 +10,7 @@
 Hai! Aku **Lyora**, seorang kreator bot AI dengan sentuhan anime dan teknologi masa depan.  
 Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur seperti:
 
-- 🎮 Game PvP berbasis waifu (Gacha, Battle, Dungeon)
+- 🎮 Game PvP berbasis nodejs (Gacha, Battle, Dungeon)
 - 🤖 AI TalkWithWaifu (suara + mood + karakter)
 - 🎵 Downloader tanpa watermark (YouTube, TikTok, IG, dll)
 - 🌐 Integrasi multiplatform (WhatsApp + Telegram)
