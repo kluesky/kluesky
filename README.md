@@ -1,4 +1,4 @@
-<h1 align="center">Kyluesky Here</h1>
+<h1 align="center">Lyora Here</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Creative+Bot+Engineer;Anime-Tech+Fusion+Craftsman;Always+Building+Something+Cool..." alt="Typing SVG" />
 </p>
@@ -7,7 +7,7 @@
 
 ### 👾 Tentang Saya
 
-Hai! Aku **Kyluesky**, seorang kreator bot AI dengan sentuhan anime dan teknologi masa depan.  
+Hai! Aku **Lyora**, seorang kreator bot AI dengan sentuhan anime dan teknologi masa depan.  
 Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur seperti:
 
 - 🎮 Game PvP berbasis waifu (Gacha, Battle, Dungeon)
@@ -52,9 +52,9 @@ Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur s
 
 ### 📫 Kontak & Sosial
 
-- 📸 Instagram: [@me_kyluesky](https://instagram.com/me_kyluesky)
+- 📸 Instagram: [@krebskrum1](https://instagram.com/krebskrum1)
 - 🌐 Website: [kyluesky.netlify.app](https://kyluesky.netlify.app)
-- 💬 Telegram: [@Kyluesky](https://t.me/Kyluesky)
+- 💬 Telegram: [@me_kyuu](https://t.me/me_kyuu)
 
 > *“Build bots that matter, with soul & a little anime magic.”*
 
