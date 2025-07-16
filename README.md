@@ -30,14 +30,23 @@ Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur s
 
 ---
 
-### 🧰 Tools & Teknologi
+### 🧰 Tools & Teknologi yang Saya Gunakan
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Telegram](https://img.shields.io/badge/-Telegraf.js-000?style=for-the-badge&logo=telegram)
-![WhatsApp](https://img.shields.io/badge/-whatsapp--web.js-000?style=for-the-badge&logo=whatsapp)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
-![Gemini](https://img.shields.io/badge/-Google%20Gemini-000?style=for-the-badge&logo=google)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js&logoColor=green)
+![Vue.js](https://img.shields.io/badge/-Vue.js-181717?style=for-the-badge&logo=vue.js)
+![Go](https://img.shields.io/badge/-Golang-181717?style=for-the-badge&logo=go)
+![Telegraf.js](https://img.shields.io/badge/-Telegraf.js-181717?style=for-the-badge&logo=telegram)
+![whatsapp-web.js](https://img.shields.io/badge/-whatsapp--web.js-181717?style=for-the-badge&logo=whatsapp)
+
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
+
+![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase)
+![Google Gemini](https://img.shields.io/badge/-Gemini%20AI-181717?style=for-the-badge&logo=google)
+![Claude AI](https://img.shields.io/badge/-Claude%20AI-181717?style=for-the-badge&logo=anthropic)
+![Grok AI](https://img.shields.io/badge/-Grok%20AI-181717?style=for-the-badge&logo=x)
+
 
 ---
 
