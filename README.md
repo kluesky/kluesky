@@ -1,53 +1,74 @@
-<h1 align="center">
-  👋 Hello, I'm Lyora
-</h1>
-
+<h1 align="center">Lyora Here</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Fullstack+Developer;AI+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Creative+Bot+Engineer;Anime-Tech+Fusion+Craftsman;Always+Building+Something+Cool..." alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
+---
 
-<br>
+### ðŸ‘¾ Tentang Saya
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyora&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyora&layout=compact&theme=radical" />
-</div>
+Hai! Aku **Lyora**, seorang kreator bot AI dengan sentuhan anime dan teknologi masa depan.  
+Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur seperti:
 
-<br>
+- ðŸŽ® Game PvP berbasis nodejs (Gacha, Battle, Dungeon)
+- ðŸ¤– AI TalkWithWaifu (suara + mood + karakter)
+- ðŸŽµ Downloader tanpa watermark (YouTube, TikTok, IG, dll)
+- ðŸŒ Integrasi multiplatform (WhatsApp + Telegram)
+- ðŸ’» Bot automasi sosial media (post auto IG/TikTok/FB)
 
-## 🚀 My Projects
+---
 
-- **🤖 AI Chat App** - Smart chatbot with real-time messaging
-- **🛒 E-Commerce Platform** - Fullstack shopping experience  
-- **📱 Task Manager** - Productivity app with collaboration
-- **🎮 Python Game** - Fun 2D adventure game
+### ðŸ§ª Proyek Unggulan
 
-<br>
+| ðŸ’¡ Proyek | Deskripsi |
+|----------|-----------|
+| [Seiren WhatsApp](https://github.com/kluesky/seiren-whatsappweb.js) | Bot WhatsApp modular dengan fitur anime, AI, dan downloader |
+| [Beta Telegram](https://t.me/Seirennnnnn_bot) | Versi Telegram dari bot Seiren â€” AI, PvP Waifu, Talk, dll |
+| [Kyluesky Website](https://lyora.netlify.app/) | Portofolio pribadi bergaya anime/futuristik |
+| [Link Tracker](https://github.com/kluesky/ip-tracker-bot) | Script pelacak link dengan notifikasi ke WA |
+| [TikTok Downloader](https://kyluesky.netlify.app/tiktok) | Website downloader TikTok MP4/MP3 dengan UI minimalis |
 
-## 📫 Connect With Me
+---
+
+### ðŸ§° Tools & Teknologi yang Saya Gunakan
+
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js&logoColor=green)
+![Vue.js](https://img.shields.io/badge/-Vue.js-181717?style=for-the-badge&logo=vue.js)
+![Go](https://img.shields.io/badge/-Golang-181717?style=for-the-badge&logo=go)
+![Telegraf.js](https://img.shields.io/badge/-Telegraf.js-181717?style=for-the-badge&logo=telegram)
+![whatsapp-web.js](https://img.shields.io/badge/-whatsapp--web.js-181717?style=for-the-badge&logo=whatsapp)
+
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
+
+![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase)
+![Google Gemini](https://img.shields.io/badge/-Gemini%20AI-181717?style=for-the-badge&logo=google)
+![Claude AI](https://img.shields.io/badge/-Claude%20AI-181717?style=for-the-badge&logo=anthropic)
+![Grok AI](https://img.shields.io/badge/-Grok%20AI-181717?style=for-the-badge&logo=x)
+
+
+---
+
+### ðŸ“Š Statistik GitHub
 
 <p align="center">
-  <a href="mailto:lyora@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/lyora">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/lyora">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kluesky&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kluesky&theme=tokyonight" width="48%" />
 </p>
 
-<br>
+---
+
+### ðŸ“« Kontak & Sosial
+
+- ðŸ“¸ Instagram: [@krebskrum1](https://instagram.com/krebskrum1)
+- ðŸŒ Website: [kyluesky.netlify.app](https://kyluesky.netlify.app)
+- ðŸ’¬ Telegram: [@me_kyuu](https://t.me/me_kyuu)
+
+> *â€œBuild bots that matter, with soul & a little anime magic.â€*
+
+---
 
 <p align="center">
-  <i>⚡ Code with passion, build with purpose</i>
+  <img src="https://media.tenor.com/-4x3lQtUDY8AAAAC/chisato-nishikigi-lycoris-recoil.gif" width="220px" alt="chisato waifu" />
 </p>
