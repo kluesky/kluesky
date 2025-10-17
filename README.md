@@ -5,32 +5,32 @@
 
 ---
 
-### ðŸ‘¾ Tentang Saya
+### 👾 Tentang Saya
 
 Hai! Aku **Lyora**, seorang kreator bot AI dengan sentuhan anime dan teknologi masa depan.  
 Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur seperti:
 
-- ðŸŽ® Game PvP berbasis nodejs (Gacha, Battle, Dungeon)
-- ðŸ¤– AI TalkWithWaifu (suara + mood + karakter)
-- ðŸŽµ Downloader tanpa watermark (YouTube, TikTok, IG, dll)
-- ðŸŒ Integrasi multiplatform (WhatsApp + Telegram)
-- ðŸ’» Bot automasi sosial media (post auto IG/TikTok/FB)
+- 🎮 Game PvP berbasis nodejs (Gacha, Battle, Dungeon)
+- 🤖 AI TalkWithWaifu (suara + mood + karakter)
+- 🎵 Downloader tanpa watermark (YouTube, TikTok, IG, dll)
+- 🌐 Integrasi multiplatform (WhatsApp + Telegram)
+- 💻 Bot automasi sosial media (post auto IG/TikTok/FB)
 
 ---
 
-### ðŸ§ª Proyek Unggulan
+### 🧪 Proyek Unggulan
 
-| ðŸ’¡ Proyek | Deskripsi |
+| 💡 Proyek | Deskripsi |
 |----------|-----------|
 | [Seiren WhatsApp](https://github.com/kluesky/seiren-whatsappweb.js) | Bot WhatsApp modular dengan fitur anime, AI, dan downloader |
-| [Beta Telegram](https://t.me/Seirennnnnn_bot) | Versi Telegram dari bot Seiren â€” AI, PvP Waifu, Talk, dll |
+| [Beta Telegram](https://t.me/Seirennnnnn_bot) | Versi Telegram dari bot Seiren — AI, PvP Waifu, Talk, dll |
 | [Kyluesky Website](https://lyora.netlify.app/) | Portofolio pribadi bergaya anime/futuristik |
 | [Link Tracker](https://github.com/kluesky/ip-tracker-bot) | Script pelacak link dengan notifikasi ke WA |
 | [TikTok Downloader](https://kyluesky.netlify.app/tiktok) | Website downloader TikTok MP4/MP3 dengan UI minimalis |
 
 ---
 
-### ðŸ§° Tools & Teknologi yang Saya Gunakan
+### 🧰 Tools & Teknologi yang Saya Gunakan
 
 ![Node.js](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js&logoColor=green)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-181717?style=for-the-badge&logo=vue.js)
@@ -50,7 +50,7 @@ Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur s
 
 ---
 
-### ðŸ“Š Statistik GitHub
+### 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kluesky&show_icons=true&theme=tokyonight" width="48%" />
@@ -59,13 +59,13 @@ Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur s
 
 ---
 
-### ðŸ“« Kontak & Sosial
+### 📫 Kontak & Sosial
 
-- ðŸ“¸ Instagram: [@krebskrum1](https://instagram.com/krebskrum1)
-- ðŸŒ Website: [kyluesky.netlify.app](https://kyluesky.netlify.app)
-- ðŸ’¬ Telegram: [@me_kyuu](https://t.me/me_kyuu)
+- 📸 Instagram: [@krebskrum1](https://instagram.com/krebskrum1)
+- 🌐 Website: [kyluesky.netlify.app](https://kyluesky.netlify.app)
+- 💬 Telegram: [@me_kyuu](https://t.me/me_kyuu)
 
-> *â€œBuild bots that matter, with soul & a little anime magic.â€*
+> *“Build bots that matter, with soul & a little anime magic.”*
 
 ---
 
