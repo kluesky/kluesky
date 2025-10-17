@@ -1,74 +1,72 @@
-<h1 align="center">Lyora Here</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Creative+Bot+Engineer;Anime-Tech+Fusion+Craftsman;Always+Building+Something+Cool..." alt="Typing SVG" />
-</p>
+# 👋 Hello, I'm Lyora!
+
+Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Here you'll find some of my projects and contributions.
+
+## 🚀 Technologies & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Lyora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyora&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyora&layout=compact&theme=radical)
+
+## 🌟 Featured Projects
+
+### 🔥 [Project 1 Name](https://github.com/lyora/project-1)
+Short description of your first awesome project.
+
+### 🚀 [Project 2 Name](https://github.com/lyora/project-2)
+Short description of your second amazing project.
+
+### 💡 [Project 3 Name](https://github.com/lyora/project-3)
+Short description of your third fantastic project.
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+## 🎯 Currently Learning
+- Web Development
+- Mobile App Development
+- Data Science
+- Cloud Computing
+
+## 📝 About Me
+I'm a passionate developer who loves to create amazing projects and learn new technologies. Always open to collaboration and new opportunities!
 
 ---
 
-### 👾 Tentang Saya
+<div align="center">
 
-Hai! Aku **Lyora**, seorang kreator bot AI dengan sentuhan anime dan teknologi masa depan.  
-Saat ini aku sedang aktif membangun bot WhatsApp & Telegram dengan fitur-fitur seperti:
+### ⚡ Fun Fact:
+"First, solve the problem. Then, write the code."
 
-- 🎮 Game PvP berbasis nodejs (Gacha, Battle, Dungeon)
-- 🤖 AI TalkWithWaifu (suara + mood + karakter)
-- 🎵 Downloader tanpa watermark (YouTube, TikTok, IG, dll)
-- 🌐 Integrasi multiplatform (WhatsApp + Telegram)
-- 💻 Bot automasi sosial media (post auto IG/TikTok/FB)
+⭐️ From [Lyora](https://github.com/lyora)
 
----
-
-### 🧪 Proyek Unggulan
-
-| 💡 Proyek | Deskripsi |
-|----------|-----------|
-| [Seiren WhatsApp](https://github.com/kluesky/seiren-whatsappweb.js) | Bot WhatsApp modular dengan fitur anime, AI, dan downloader |
-| [Beta Telegram](https://t.me/Seirennnnnn_bot) | Versi Telegram dari bot Seiren — AI, PvP Waifu, Talk, dll |
-| [Kyluesky Website](https://lyora.netlify.app/) | Portofolio pribadi bergaya anime/futuristik |
-| [Link Tracker](https://github.com/kluesky/ip-tracker-bot) | Script pelacak link dengan notifikasi ke WA |
-| [TikTok Downloader](https://kyluesky.netlify.app/tiktok) | Website downloader TikTok MP4/MP3 dengan UI minimalis |
-
----
-
-### 🧰 Tools & Teknologi yang Saya Gunakan
-
-![Node.js](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js&logoColor=green)
-![Vue.js](https://img.shields.io/badge/-Vue.js-181717?style=for-the-badge&logo=vue.js)
-![Go](https://img.shields.io/badge/-Golang-181717?style=for-the-badge&logo=go)
-![Telegraf.js](https://img.shields.io/badge/-Telegraf.js-181717?style=for-the-badge&logo=telegram)
-![whatsapp-web.js](https://img.shields.io/badge/-whatsapp--web.js-181717?style=for-the-badge&logo=whatsapp)
-
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
-
-![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase)
-![Google Gemini](https://img.shields.io/badge/-Gemini%20AI-181717?style=for-the-badge&logo=google)
-![Claude AI](https://img.shields.io/badge/-Claude%20AI-181717?style=for-the-badge&logo=anthropic)
-![Grok AI](https://img.shields.io/badge/-Grok%20AI-181717?style=for-the-badge&logo=x)
-
-
----
-
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kluesky&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kluesky&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 📫 Kontak & Sosial
-
-- 📸 Instagram: [@krebskrum1](https://instagram.com/krebskrum1)
-- 🌐 Website: [kyluesky.netlify.app](https://kyluesky.netlify.app)
-- 💬 Telegram: [@me_kyuu](https://t.me/me_kyuu)
-
-> *“Build bots that matter, with soul & a little anime magic.”*
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/-4x3lQtUDY8AAAAC/chisato-nishikigi-lycoris-recoil.gif" width="220px" alt="chisato waifu" />
-</p>
+</div>
