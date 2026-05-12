@@ -89,13 +89,13 @@ Everything I make is built for personal use first. If it's on here, it's somethi
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kluesky&show_icons=true&theme=transparent&hide_border=true&title_color=4fc3f7&icon_color=0d47a1&text_color=546e7a&bg_color=0d1117" height="155" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kluesky&layout=compact&theme=transparent&hide_border=true&title_color=4fc3f7&text_color=546e7a&bg_color=0d1117" height="155" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kluesky&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kluesky&theme=transparent&hide_border=true&ring=0d47a1&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=546e7a&dates=546e7a&currStreakNum=4fc3f7&sideNums=4fc3f7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kluesky&bg_color=0d1117&color=4fc3f7&line=0d47a1&point=4fc3f7&area=true&hide_border=true" />
 </p>
 
 <br />
@@ -111,4 +111,3 @@ Everything I make is built for personal use first. If it's on here, it's somethi
 <p align="center">
   <sub>kluesky &nbsp;·&nbsp; <a href="https://github.com/kluesky">github.com/kluesky</a></sub>
 </p>
-`
